@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 18B2-8812
+
+ Directory of C:\Users\gopin\Desktop\MyProject
+
+12/24/2016  01:53 PM    <DIR>          .
+12/24/2016  01:53 PM    <DIR>          ..
+12/24/2016  01:53 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  651,596,664,832 bytes free
